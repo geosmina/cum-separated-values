@@ -2,6 +2,8 @@
 
 # Cum‑Separated Values: The Alt‑Right and the Semen Retention Movement
 
+[![DOI](https://zenodo.org/badge/1227319717.svg)](https://doi.org/10.5281/zenodo.19980653)
+
 This repository contains the corpus, IRaMuTeQ report, and data‑processing script used for the expanded abstract “Cum‑Separated Values: The Alt‑Right and the Semen Retention Movement” by Robert de Amorim Pontes and Victor Gabriel de Almeida Pedra.
 
 ## About the study
@@ -94,7 +96,7 @@ The expanded abstract discusses only the two dominant classes (3 and 4) because 
 
 When using this dataset or code, please cite it as:
 
-> Pontes, Robert de Amorim; Pedra, Victor Gabriel de Almeida. **Cum‑Separated Values: The alt‑right and the semen retention movement** [Data set and code]. Zenodo. DOI: XXXXXXX. Available at: <https://doi.org/XXXXXXX>.
+> Pontes, Robert de Amorim; Pedra, Victor Gabriel de Almeida. **Cum‑Separated Values: The alt‑right and the semen retention movement** [Data set and code]. Zenodo. DOI: 10.5281/zenodo.19980653. Available at: [https://doi.org/10.5281/zenodo.19980653](https://doi.org/10.5281/zenodo.19980653).
 
 ## Licence
 

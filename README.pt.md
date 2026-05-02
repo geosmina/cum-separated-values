@@ -2,6 +2,8 @@
 
 # _Cum‑Separated Values_: A _Alt‑Right_ e o Movimento pela Retenção Seminal
 
+[![DOI](https://zenodo.org/badge/1227319717.svg)](https://doi.org/10.5281/zenodo.19980653)
+
 Este repositório contém o corpus, o relatório do IRaMuTeQ e o script de processamento dos dados utilizados no resumo expandido “_Cum‑Separated Values_: A _Alt‑Right_ e o Movimento pela Retenção Seminal” de Robert de Amorim Pontes e Victor Gabriel de Almeida Pedra.
 
 ## Sobre o estudo
@@ -94,7 +96,7 @@ O resumo expandido discute apenas as duas classes dominantes (3 e 4) porque as o
 
 Ao utilizar este conjunto de dados ou código, cite‑o como:
 
-> Pontes, Robert de Amorim; Pedra, Victor Gabriel de Almeida. **_Cum‑Separated Values_: A _alt‑right_ e o movimento pela retenção seminal** [Conjunto de dados e código]. Zenodo. DOI: XXXXXXX. Disponível em: https://doi.org/XXXXXXX.
+> Pontes, Robert de Amorim; Pedra, Victor Gabriel de Almeida. **_Cum‑Separated Values_: A _alt‑right_ e o movimento pela retenção seminal** [Conjunto de dados e código]. Zenodo. DOI: 10.5281/zenodo.19980653. Disponível em: [https://doi.org/10.5281/zenodo.19980653](https://doi.org/10.5281/zenodo.19980653).
 
 ## Licença
 

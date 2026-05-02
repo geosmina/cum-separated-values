@@ -1,7 +1,11 @@
 [project]
 name = "cum-separated-values"
-version = "0.1.0"
+version = "1.0.0"
 description = "Corpus, IRaMuTeQ report, and processing script for the Cum-Separated Values expanded abstract"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+
+[project.urls]
+Repository = "https://github.com/geosmina/cum-separated-values"
+DOI = "https://doi.org/10.5281/zenodo.19980653"
